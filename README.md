@@ -1,2 +1,1 @@
-# sanjeevshrestha
-My Repository
+# Sanjeev Shrestha
